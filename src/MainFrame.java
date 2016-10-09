@@ -14,7 +14,9 @@ public class MainFrame extends JFrame {
 	int panelHeight = 320 + 30 + 8; //30 üst menü 8 alt menü geniþliði
 	int panelWidth = 480 + 8 + 8;  //8 sað menü 8 sol menü geniþliði
 	boolean ctrlCheck = false;
-
+	boolean check = true; //Github test amaçly eklenmitir...
+	
+	
 	public MainFrame() 
 	{
 		setTitle("Ahmet's Game");
